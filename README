@@ -1,0 +1,31 @@
+
+                 MADAI (Mail Duplicator at Inbound)
+                              Version 1.0.0
+
+
+What is MADAI
+-------------
+ MADAI can duplicate the original mail sent and deliver
+ the original mail and duplicated mail to different mail servers
+ respectively.
+
+Requirements
+------------
+  The following softwares are required. 
+
+  * libmilter
+
+
+Download
+--------
+  https://github.com/designet-inc-oss/MADAI
+
+
+Homepage
+--------
+  https://www.designet.co.jp/open_source/
+
+
+Bug reports to
+--------------
+  https://github.com/designet-inc-oss/MADAI/issues

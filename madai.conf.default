@@ -1,0 +1,8 @@
+SyslogFacility=local1
+ListenIP=ServerIPaddr
+ListenPort=ServerPort
+MilterTimeout=120
+CopyServerIP=CopyServerIPaddr
+CopyPort=CopyServerPort
+CopyMailTimeout=30
+HeloDomain=example.com
