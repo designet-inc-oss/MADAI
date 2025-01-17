@@ -337,7 +337,7 @@ mdfi_close(SMFICTX *ctx)
         return SMFIS_ACCEPT;
     }
 
-    if (session_list->sd_socket == -1) {
+    if (session_list->sd_socket != -1) {
         close(session_list->sd_socket); 
     }
 

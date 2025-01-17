@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.59)
-AC_INIT(MADAI, 1.0.0, matsui@designet.co.jp)
+AC_INIT(MADAI, 1.0.1, ogura@designet.co.jp)
 AM_INIT_AUTOMAKE([foreign])
 AC_CONFIG_SRCDIR([src/madai.c])
 AC_CONFIG_HEADER([config.h])
